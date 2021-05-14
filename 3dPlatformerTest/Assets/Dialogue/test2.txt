@@ -1,0 +1,4 @@
+phero;you got the D.E.M. yet?
+oro;nah, just wanted to see if you had more dialogue.
+phero;nope, you got enough already.
+SYSTEM.Narrator;there's nothing else here. go platforming!

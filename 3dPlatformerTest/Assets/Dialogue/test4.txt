@@ -1,0 +1,3 @@
+phero;the game is over thanks for playing
+System.NARRATOR;yeah go do something else
+oro;alright geez

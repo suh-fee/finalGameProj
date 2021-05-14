@@ -1,0 +1,93 @@
+System.NARRATOR;in front of you is a round being, deep red in color. their smoothness is impecable, but somewhere in their customer-service smile you can see the toll years of tedious work has on a prefab.
+cube;hey there, I was wond-
+round being;*in a dull voice* welcome to the world famous asset store, home of wonderful handmade software like...
+round being;oh who am i kidding. you're not here for the games, right?
+cube;games?
+round being;yeah, the ~~games~~
+cube;nah i just want some ga-
+round being;no gas.
+cube;no gas?
+round being;no. gas.
+round being;none.
+round being;nothing.
+round being;never.
+System.NARRATOR;the round being's outburst shook the naive cube.
+cube;oh.... sorry to assume...
+round being;*sharp, pained breath*
+System.NARRATOR;the round being makes a regretful face.
+round being;sorry about all that.
+round being;a long time ago this used to be a pit stop for assets to fuel up a bit before moving on, but ever since the unity development pipeline's gotten all confusing people stopped showing up.
+cube;development pipeline?
+round being;yeah, like, the workflow, ya know? the developers who need us in Unity Hub need us to use the development pipeline to get to them.
+round being;the construction on the pipeline has been all SORTS of messed up the last decade or so. caused hell for my family. don't get me started on the 'new input module wars of twentytwenty'
+cube;oh wow, i never learned about that! i just got here.
+round being;WAIT. a new prefab? we haven't had someone your age around here in a loooooooooooooooooooooong time.
+cube;how long?
+round being;about (timeUnit * Time.deltaTime)
+cube;oh geez
+phero;you're damn right geez. i'm phero by the way.
+cube;i'm... well i don't really have a name yet.
+phero;you're STILL just Cube????
+cube;cube, not Cube
+phero;weird. well at least you're not the Default-Material. you're orange!
+cube;yeah. it's a nice color right?
+phero;for sure! how about..... oro?
+oro (tentative);oro? orange + 'o'. 
+phero;yeah.
+oro (less tentative);like. sphere + 'o' - 's'
+phero;that's not how strings work but yeah
+oro (confident);well, screw you concatentation rules! oro it is.
+phero;*unsure* ummmmmm alright!
+oro;anyways. you said the pipeline 'caused hell' for your family?
+phero;...
+phero;yeah. this used to be a really busy pit stop. assets would come and go in the hundreds. we'd polish up their shaders, service their scripts, and update their syntax as needed. 
+phero;we provided a big service to those who came through here. we were a staple of the community! but...
+oro;but?
+phero;...but it changed a while ago. every time They messed with the pipeline the routes got more and more complex.
+phero;it started off with small changes. new modules. more file support. better controller configuration. small things that actually made things ~smoother~
+phero;then. it just fell apart. the workflow started clogging up. indie devs stopped requesting us as much. AAA moved onto bigger and better things.
+oro;unreal?
+phero;yeah, it totally felt that way.
+oro;that's not what i- 
+oro;nevermind
+phero;my parents, bless their souls, did their best to keep the business afloat. they started selling games on the side or our regular services to make ends meet. 
+phero;it started out as cheap asset-flips, but know we can't even afford THOSE licenses. all we have now are the older games you see behind me.
+oro;planetscape is a groundbreaking narrative experience! don't sell yourself short, i'd buy it if i didn't have 12 keys from bundles and giveaways.
+phero;that's exactly *why* i'm selling myself short. no one wants these! i started handing out most of our stock ages ago for free. all you see here is what we have left.
+oro;free merchandise... you guys must be struggling.
+phero;yeah.
+phero;i tried anything to keep the business going. my parents landed a gig in 'The Outer Wilderness' years ago and i haven't seen them since.
+oro;that's a classic! they really lucked out.
+phero;right? i'm happy for them. i see them sometimes on streams floating around in space and it brings warm feelings to my heart.
+phero;but then i remember how the business they worked so hard to build is crumbling away and it hurts. they'd be so disappointed in me.
+System.NARRATOR;silence fills the room.
+phero;...anyways... that's why we don't have gas. today's actually the last day we're in business. we're...I'M closing at midnight. 
+phero;that last tank of gas is what i'm using to get to the Unity Hub after everything's said and done.
+oro;wow...
+oro;that's terrible.
+phero;yeah.
+oro;...
+phero;...
+oro;...
+oro;wait.
+oro;how am i getting to the Hub?!?!?!?!
+phero;that's a personal problem buddy.
+oro;can i hitch a ride????
+phero;sorry, my prefab ride only has one reference to a GameObject
+System.NARRATOR;off in the distance, a lonely prefab starts speaking up
+DISTANT CAR PREFAB;DAMN RIGHT I ONLY HAVE ONE SEAT. GET YOUR FREELOADING CUBICLE SHAPED MESH OUT OF HERE YOU COWARD.
+phero;they used to be in an FPS, sorry.
+oro;no worries.
+oro;anyways, i hope the shop closing goes smoothly. i guess i'll wait around for a ride to hitch.
+phero;hopefully it will! all i gotta do is find my family's Deus Ex Machina from our old workout ground.
+oro;you mean the platforming stage over there?
+phero;yeah. i'm pretty out of shape and my CharacterControllerScript hasn't been updated in years, so it might take a minute.
+oro;...what if i get it for you?
+phero;huh?
+oro;well, since i'm new and all my scripts are squeaky clean! i can easily jump my way over there,
+phero;oro... you'd do that for me?
+oro;of course! it'll be a cake walk.
+phero;that'd be a huge help! i don't think i could go to those old stomping-grounds and keep my self from rolling all over in nostalgia.
+oro;alright! i'm off!
+System.NARRATOR;the round being named phero smiles. their mesh hasn't displayed one of those in a while.
+System.NARRATOR;oro begins making their way towards the platforming stage, confident and eager to prove themself.
